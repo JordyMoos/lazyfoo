@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1489070172 source:/home/jordy/Documents/github/lazy-foo/lazyfoo/main.cpp
+1489073879 source:/home/jordy/Documents/github/lazy-foo/lazyfoo/main.cpp
 	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
 	<stdio.h>
 	<string>
 
