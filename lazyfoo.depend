@@ -1,7 +1,32 @@
 # depslib dependency file v1.0
-1489077235 source:/home/jordy/Documents/github/lazy-foo/lazyfoo/main.cpp
+1489155694 source:/home/jordy/Documents/github/lazy-foo/lazyfoo/main.cpp
 	<SDL2/SDL.h>
 	<SDL2/SDL_image.h>
 	<stdio.h>
 	<string>
+
+1489152097 /home/jordy/Documents/github/lazy-foo/lazyfoo/include/LTexture.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<string>
+	"Globals.h"
+
+1489152357 /home/jordy/Documents/github/lazy-foo/lazyfoo/include/Globals.h
+
+1489151857 source:/home/jordy/Documents/github/lazy-foo/lazyfoo/src/LTexture.cpp
+	"../include/LTexture.h"
+
+1489155048 /home/jordy/Documents/github/lazy-foo/lazyfoo/globals.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1489155061 /home/jordy/Documents/github/lazy-foo/lazyfoo/Texture.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	"globals.h"
+
+1489154816 source:/home/jordy/Documents/github/lazy-foo/lazyfoo/Texture.cpp
+	"globals.h"
+	"Texture.h"
 
